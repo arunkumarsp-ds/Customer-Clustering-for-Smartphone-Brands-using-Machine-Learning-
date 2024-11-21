@@ -1,6 +1,8 @@
-# Customer-Clustering-for-Smartphone-Brands-using-Machine-Learning-
+# **Customer-Clustering-for-Smartphone-Brands-using-Machine-Learning-**
 
-- [**Notebook**](https://github.com/arunkumarsp-ds/Customer-Clustering-for-Smartphone-Brands-using-Machine-Learning-/blob/main/smartphone-customer-clustering.ipynb) - Explore the project
+## 🔗 PROJECT LINKS
+
+- 💻 [**Notebook**](https://github.com/arunkumarsp-ds/Customer-Clustering-for-Smartphone-Brands-using-Machine-Learning-/blob/main/smartphone-customer-clustering.ipynb) - Explore the project
 
 ### **Note**
 - In case the files cannot be viewed directly on GitHub, please download the files and open them in their respective applications for proper access.
